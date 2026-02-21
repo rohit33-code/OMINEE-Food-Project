@@ -19,8 +19,6 @@ It provides a clean UI experience showcasing healthy meals, subscription plans, 
 
 ## 📂 Project Structure
 
----
-
 OMINEE-Food-Project/
 │
 ├── index.html
@@ -30,8 +28,6 @@ OMINEE-Food-Project/
 │   ├── gallery.png
 │   └── pricing.png
 └── README.md
-
-
 2. Open folder
 
 3. Run `index.html` in browser
