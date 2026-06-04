@@ -5,33 +5,24 @@ This project showcases a clean UI for a healthy meal subscription service with r
 
 ---
 
-# 🚀 Live Preview
-
-Add your GitHub Pages link here after deployment:
-
-```bash
-https://your-username.github.io/ominee-food/
-```
-
----
 
 # 📸 Project Screenshots
 
 ## Main Section
 
-![Main Section](screenshots/main.png)
+![Main Section](screeshots/main.png)
 
 ## Food delivery 
 
-![Food delivery ](screenshots/food_delivery.png)
+![Food delivery ](screeshots/food_delivery.png)
 
 ## How it works 
 
-![How it works ](screenshots/How_work.png)
+![How it works ](screeshots/How_work.png)
 
 ## Our cities 
 
-![Our cities ](screenshots/our_cities.png)
+![Our cities ](screeshots/our_cities.png)
 
 ---
 
@@ -55,31 +46,40 @@ https://your-username.github.io/ominee-food/
 - JavaScript
 - Responsive Web Design
 
+
 ---
 
 # 📂 Project Structure
 
 ```bash
-ominee-food/
-│── index.html
-│── README.md
+OMINEE-Food-Project/
+│
+├── index.html
+├── README.md
+│
+├── screenshots/
+│   ├── main.png
+│   ├── food_delivery.png
+│   ├── How_work.png
+│   └── our_cities.png
 │
 ├── resource/
 │   ├── css/
 │   ├── js/
 │   └── img/
 │
-└── wenders/
+└── vendors/
 ```
 
 ---
+
 
 # ⚙️ Installation & Usage
 
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ominee-food.git
+git clone https://github.com/rohit33-code/OMINEE-Food-Project.git
 ```
 
 ## 2️⃣ Open Project Folder
@@ -124,13 +124,8 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ---
 
-# 📄 License
-
-This project is open-source and available under the **MIT License**.
-
----
 
 # 👨‍💻 Author
 
-Made with ❤️ by **Your Name**
+Made with ❤️ by **ROHIT SHARMA**
 
